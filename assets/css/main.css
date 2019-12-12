@@ -2757,15 +2757,14 @@ input, select, textarea {
 				vertical-align: middle;
 				width: calc(100% - 10px);
 			}
-			/*.main .container .content .pacmanimg {
-				display: block;
-				margin-left: auto;
-				margin-right:200px;
-				width:50%;
-			}*/
 			.pacmanimg{
 				width:100%;
 			}
+                        .me{
+                           width:100%;
+                           width: 250px;
+                           height: 250px;
+                        }
 
 		.main .goto-next {
 			-moz-transition: background-color 0.2s ease-in-out;
